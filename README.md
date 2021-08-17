@@ -30,7 +30,5 @@
 
 
 ![Apeksha's github stats](https://github-readme-stats.vercel.app/api?username=Apekshamarutip1&show_icons=true)
-
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apekshamarutip1&layout=compact)](https://github.com/Apekshamarutip1)
 
