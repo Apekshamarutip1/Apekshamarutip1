@@ -6,9 +6,10 @@
 ### Connect with me:
 
 <a href="https://twitter.com/Apekshamarutip1"><img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/apeksha-m-prabhu/"><img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://www.instagram.com/apekshaprabhu11/"><img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<a href="https://www.facebook.com/apeksha.prabhu.75/"><img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
+
+<a href="https://www.linkedin.com/in/apeksha-m-prabhu/"><img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/apekshaprabhu11/"><img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.facebook.com/apeksha.prabhu.75/"><img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" /></a>
 
 
 
