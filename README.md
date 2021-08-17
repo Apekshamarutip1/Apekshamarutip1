@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/apeksha.prabhu.75/"><img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
 
 
-<br>
+
 
 ![Apeksha's github stats](https://github-readme-stats.vercel.app/api?username=Apekshamarutip1&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apekshamarutip1&layout=compact)](https://github.com/Apekshamarutip1)
