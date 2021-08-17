@@ -1,13 +1,13 @@
-### Hi there, I'm [Apeksha M Prabhu][https://github.com/Apekshamarutip1] 👋 
+### Hi there, I'm Apeksha M Prabhu 👋 
 
 
 
 
 ### Connect with me:
 
-[<img align="left" alt="Apekshamarutip1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Apekshamarutip1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Apekshamarutip1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://twitter.com/Apekshamarutip1"><img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+[<img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
+[<img align="left" alt="Apekshamarutip1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](#)
 
 
 <br />
