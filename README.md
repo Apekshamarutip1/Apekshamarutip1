@@ -23,7 +23,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ![Apeksha's github stats](https://github-readme-stats.vercel.app/api?username=Apekshamarutip1&show_icons=true)
 <br>
